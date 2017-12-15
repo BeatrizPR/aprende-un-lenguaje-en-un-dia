@@ -57,11 +57,11 @@ También, encontramos información interesante para aprender sobre JavaScript en
 
 Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
 
-<img src="imagenes\operadoreslogicos.jpg" width="240px">
-<img src="imagenes/comparacion.jpg" width="240px">
-<img src="imagenes/declaracionif.jpg" width="240px">
-<img src="imagenes/ejecutadoaler.jpg" width="240px">
-<img src="imagenes/codigo.jpg" width="240px">
+<img src="imagenes/operadoreslogicos.jpeg" width="240px">
+<img src="imagenes/comparacion.jpeg" width="240px">
+<img src="imagenes/declaracionif.jpeg" width="240px">
+<img src="imagenes/ejecutadoaler.jpeg" width="240px">
+<img src="imagenes/codigo.jpeg" width="240px">
 
 
 ## Herramientas de desarrollo
