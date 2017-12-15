@@ -47,13 +47,16 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 JavaScript es uno de los lenguajes de programación más populares en el mundo y se utiliza para procesar datos, añadir interactividad a páginas web y además, poder crear diferentes tipos de apliciones como aplicaciones de escritorio, móviles, juegos, etc.
 
 Podemos ver información de JavaScript en distintas páginas:
-[Página de JavaScript](https://www.javascript.com/)
-[Guia de JavaScript de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
-[JavaScript.Info](https://javascript.info/)
-[Información general de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [Página de JavaScript](https://www.javascript.com/)
+* [Guia de JavaScript de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
+* [JavaScript.Info](https://javascript.info/)
+* [Información general de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 También, encontramos información interesante para aprender sobre JavaScript en la página de Codecademy:
-[JavaScript en Codecademy](https://www.codecademy.com/es/tracks/javascript)
+* [JavaScript en Codecademy](https://www.codecademy.com/es/tracks/javascript)
+
+Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
+<img src="imagenes/aprendejava.jpg" width="240px">
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
