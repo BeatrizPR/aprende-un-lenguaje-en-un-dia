@@ -56,13 +56,17 @@ También, encontramos información interesante para aprender sobre JavaScript en
 * [JavaScript en Codecademy](https://www.codecademy.com/es/tracks/javascript)
 
 Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
-<img src="imagenes/aprendejava.jpg" width="240px">
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+<img src="imagenes/operadoreslogicos.jpeg" width="240px"> <img src="imagenes/comparacion.jpeg" width="240px"> <img src="imagenes/bucle.jpeg" width="240px"> <img src="imagenes/declaracionif.jpeg" width="240px"> <img src="imagenes/codigo.jpeg" width="240px"> <img src="imagenes/ejecutadoaler.jpeg" width="240px">
+
 
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Este lenguaje se puede programar en entornos de desarrollo como Netbeans, Eclipse o editores más simples como Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
+
+                                  <img src="imagenes/netbeans.png" width="280px">
+                                  <img src="imagenes/eclipse.png" width="280px">
 
 ## Poniendo en práctica el lenguaje
 
