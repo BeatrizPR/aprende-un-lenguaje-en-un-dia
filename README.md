@@ -65,8 +65,7 @@ Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 Este lenguaje se puede programar en entornos de desarrollo como Netbeans, Eclipse o editores más simples como Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
 
-                                  <img src="imagenes/netbeans.png" width="280px">
-                                  <img src="imagenes/eclipse.png" width="280px">
+<img src="imagenes/netbeans.png" width="240px">
 
 ## Poniendo en práctica el lenguaje
 
