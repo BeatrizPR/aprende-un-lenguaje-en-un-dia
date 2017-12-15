@@ -28,9 +28,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+* Lucía Flores Padilla
+* Jesus Martín Castro
+* Beatriz Parejo Ramos
 
 ## Lenguaje de programación
 
@@ -43,6 +43,17 @@ Escribe el lenguaje de programación elegido por el grupo.
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
+
+JavaScript es uno de los lenguajes de programación más populares en el mundo y se utiliza para procesar datos, añadir interactividad a páginas web y además, poder crear diferentes tipos de apliciones como aplicaciones de escritorio, móviles, juegos, etc.
+
+Podemos ver información de JavaScript en distintas páginas:
+[Página de JavaScript](https://www.javascript.com/)
+[Guia de JavaScript de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
+[JavaScript.Info](https://javascript.info/)
+[Información general de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+También, encontramos información interesante para aprender sobre JavaScript en la página de Codecademy:
+[JavaScript en Codecademy](https://www.codecademy.com/es/tracks/javascript)
 
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
