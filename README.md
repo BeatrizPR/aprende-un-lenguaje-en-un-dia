@@ -57,9 +57,12 @@ También, encontramos información interesante para aprender sobre JavaScript en
 
 Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
 
-<img src="imagenes/operadoreslogicos.jpg" width="240px">
+<img src="imagenes\operadoreslogicos.jpg" width="240px">
+<img src="imagenes/comparacion.jpg" width="240px">
+<img src="imagenes/declaracionif.jpg" width="240px">
+<img src="imagenes/ejecutadoaler.jpg" width="240px">
+<img src="imagenes/codigo.jpg" width="240px">
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
 ## Herramientas de desarrollo
 
