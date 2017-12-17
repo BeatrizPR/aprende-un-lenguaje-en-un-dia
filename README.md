@@ -40,6 +40,8 @@ Escribe el lenguaje de programación elegido por el grupo.
 
 * JavaScript
 
+* En el siguiente documento se encuentra una [Guía de JavaScript](GuiaJavaScript.pdf).
+
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
@@ -57,7 +59,12 @@ También, encontramos información interesante para aprender sobre JavaScript en
 
 Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
 
-<img src="imagenes/operadoreslogicos.jpeg" width="240px"> <img src="imagenes/comparacion.jpeg" width="240px"> <img src="imagenes/bucle.jpeg" width="240px"> <img src="imagenes/declaracionif.jpeg" width="240px"> <img src="imagenes/codigo.jpeg" width="240px"> <img src="imagenes/ejecutadoaler.jpeg" width="240px">
+<img src="imagenes/operadoreslogicos.jpeg" width="240px"> 
+<img src="imagenes/comparacion.jpeg" width="240px"> 
+<img src="imagenes/bucle.jpeg" width="240px"> 
+<img src="imagenes/declaracionif.jpeg" width="240px"> 
+<img src="imagenes/codigo.jpeg" width="240px"> 
+<img src="imagenes/ejecutadoaler.jpeg" width="240px">
 
 
 ## Herramientas de desarrollo
@@ -103,9 +110,69 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
         }
 ```
 
+<img src="imagenes/introducirAltura.png" width="250px">
+<img src="imagenes/introducirCaracter.png" width="250px">
+<img src="imagenes/piramide.png" width="250px">
+
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+
+```java
+	var num = 0;
+        var inicial = new Array(20);
+        var primos = new Array(20);
+        var noPrimos = new Array(20);
+        var contadorPrimos = 0;
+        var contadorNoPrimos = 0;
+        var esPrimo = true;
+        
+        for(var i = 0; i < 20; i++){
+        num = Math.floor(Math.random() * 100 + 1);
+        inicial[i] = num;
+        
+        //Aquí se comprueba si los números aleatorios son primos
+        var comprobacion = 0;
+        esPrimo = true;
+      
+        for(var j = 2; j < inicial[i]; j++){
+          comprobacion = inicial[i] % j;
+
+          if(comprobacion == 0){
+            esPrimo = false;
+          }
+        }
+        
+        if(esPrimo){
+        primos[contadorPrimos] = inicial[i];
+        contadorPrimos++;
+        
+        }else{
+          noPrimos[contadorNoPrimos] = inicial[i];
+          contadorNoPrimos++;
+        }
+      }
+
+      document.write("Array inicial" + "</br>");
+      for(var i = 0; i < 20; i++){
+        document.write(inicial[i] + "  ");
+      }
+
+      document.write("</br></br>" + "Array resulltado de primos primero: " + "</br>");
+      for(var i = 0; i < 20; i++){
+        if (primos[i] != null){
+          document.write(primos[i] + "  ");
+        }
+      }
+      for(var i = 0; i < 20; i++){
+     
+        if (noPrimos[i] != null){
+          document.write(noPrimos[i] + "  ");
+        }
+      }
+```
+
+<img src="imagenes/arrayPrimosPrimero.jpeg" width="240px">
 
 ## Presentación de resultados
 
