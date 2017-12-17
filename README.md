@@ -59,12 +59,7 @@ También, encontramos información interesante para aprender sobre JavaScript en
 
 Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
 
-<img src="imagenes/operadoreslogicos.jpeg" width="240px"> 
-<img src="imagenes/comparacion.jpeg" width="240px"> 
-<img src="imagenes/bucle.jpeg" width="240px"> 
-<img src="imagenes/declaracionif.jpeg" width="240px"> 
-<img src="imagenes/codigo.jpeg" width="240px"> 
-<img src="imagenes/ejecutadoaler.jpeg" width="240px">
+<img src="imagenes/operadoreslogicos.jpeg" width="240px"> <img src="imagenes/comparacion.jpeg" width="240px"> <img src="imagenes/bucle.jpeg" width="240px"> <img src="imagenes/declaracionif.jpeg" width="240px"> <img src="imagenes/codigo.jpeg" width="240px"> <img src="imagenes/ejecutadoaler.jpeg" width="240px">
 
 
 ## Herramientas de desarrollo
@@ -73,7 +68,6 @@ Indica aquí qué software has tenido que instalar para programar en este lengua
 Este lenguaje se puede programar en entornos de desarrollo como Netbeans, Eclipse o editores más simples como Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
 
 <img src="imagenes/netbeans.jpg" width="480px">
-<img src="imagenes/eclipse.jpg" width="480px">
 
 ## Poniendo en práctica el lenguaje
 
@@ -110,9 +104,7 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
         }
 ```
 
-<img src="imagenes/introducirAltura.png" width="250px">
-<img src="imagenes/introducirCaracter.png" width="250px">
-<img src="imagenes/piramide.png" width="250px">
+<img src="imagenes/introducirAltura.png" width="250px"> <img src="imagenes/introducirCaracter.png" width="250px"> <img src="imagenes/piramide.png" width="250px">
 
 ### 3. Arrays y números aleatorios
 
@@ -172,7 +164,7 @@ Realiza un programa que rellene un array (o una estructura similar) con 20 núme
       }
 ```
 
-<img src="imagenes/arrayPrimosPrimero.jpeg" width="240px">
+<img src="imagenes/arrayPrimosPrimero.jpeg" width="400px">
 
 ## Presentación de resultados
 
