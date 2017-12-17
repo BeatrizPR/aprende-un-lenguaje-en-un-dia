@@ -57,7 +57,7 @@ Podemos ver información de JavaScript en distintas páginas:
 También, encontramos información interesante para aprender sobre JavaScript en la página de Codecademy:
 * [JavaScript en Codecademy](https://www.codecademy.com/es/tracks/javascript)
 
-Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn:
+Podemos aprender JavaScript desde la app para Iphone y Android llamada "SoloLearn", aquí se adjuntan algunas imágenes de su funcionamiento:
 
 <img src="imagenes/operadoreslogicos.jpeg" width="240px"> <img src="imagenes/comparacion.jpeg" width="240px"> <img src="imagenes/bucle.jpeg" width="240px"> <img src="imagenes/declaracionif.jpeg" width="240px"> <img src="imagenes/codigo.jpeg" width="240px"> <img src="imagenes/ejecutadoaler.jpeg" width="240px">
 
@@ -66,6 +66,8 @@ Podemoa aprender JavaScript desde al app para Android y Iphone llamada SoloLearn
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 Este lenguaje se puede programar en entornos de desarrollo como Netbeans, Eclipse o editores más simples como Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
+
+* Para hacer los ejercicios hemos usado netbeans, aunque JavaScript se puede programar en cualquier IDE.
 
 <img src="imagenes/netbeans.jpg" width="480px">
 
@@ -104,7 +106,7 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
         }
 ```
 
-<img src="imagenes/introducirAltura.png" width="250px"> <img src="imagenes/introducirCaracter.png" width="250px"> <img src="imagenes/piramide.png" width="250px">
+<img src="imagenes/introducirAltura.png" width="250px"> <img src="imagenes/introducirCaracter.png" width="250px"> <img src="imagenes/piramide.png" width="300px" height="400px">
 
 ### 3. Arrays y números aleatorios
 
