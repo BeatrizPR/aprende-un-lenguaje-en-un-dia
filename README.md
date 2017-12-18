@@ -12,23 +12,19 @@ Sigue los pasos que se indican a continuación.
 
 ## Miembros del grupo
 
-Escribe aquí los miembros del grupo. El primero es el representante o encargado.
+Los miembros del grupo, el primero es el representante o encargado.
 
-* [Lucía Flores Padilla](https://github.com/luciaflores25).
-* Jesus Martín Castro
-* Beatriz Parejo Ramos
+* [Lucía Flores Padilla](https://github.com/luciaflores25)
+* [Jesus Martín Castro](https://github.com/Jesusmc82)
+* [Beatriz Parejo Ramos](https://github.com/BeatrizPR)
 
 ## Lenguaje de programación
 
-El profesor llevará una cajita llena de papelitos con los nombres de distintos lenguajes de programación. Los encargados de cada grupo meterán la mano en la caja y sacarán dos papelitos, de los cuales el grupo elegirá uno. Se permite hacer intercambio de papelitos entre grupos.
-
-Escribe el lenguaje de programación elegido por el grupo.
+Lenguaje de programación elegido por el grupo.
 
 * JavaScript
 
 * En el siguiente documento se encuentra una [Guía de JavaScript](GuiaJavaScript.pdf).
-
-Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 
@@ -50,16 +46,11 @@ Podemos aprender JavaScript desde la app para Iphone y Android llamada "SoloLear
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
-Este lenguaje se puede programar en entornos de desarrollo como Netbeans, Eclipse o editores más simples como Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
-
-* Para hacer los ejercicios hemos usado netbeans, aunque JavaScript se puede programar en cualquier IDE.
+Para hacer los ejercicios hemos usado netbeans, aunque JavaScript se puede programar en cualquier IDE, Eclipse, Notepad++, Sublime Text, BlueGriffon, Microsoft Visual Studio Express for Web o Aptana Studio, entre otros.
 
 <img src="imagenes/netbeans.jpg" width="480px">
 
 ## Poniendo en práctica el lenguaje
-
-Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
 
 ### 1. ¡Hola mundo!
 
