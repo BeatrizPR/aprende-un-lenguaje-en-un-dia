@@ -24,7 +24,7 @@ Lenguaje de programación elegido por el grupo.
 
 * JavaScript
 
-* En el siguiente documento se encuentra una [Guía de JavaScript](GuiaJavaScript.pdf).
+* En el siguiente documento se encuentra una [Guía de JavaScript](GuiaJavaScript.pdf) by miembros de este grupo.
 
 ## Información sobre el lenguaje
 
