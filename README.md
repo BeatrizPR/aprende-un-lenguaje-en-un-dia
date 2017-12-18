@@ -10,25 +10,11 @@ Con este ejercicio se pretende despertar el interés por otros lenguajes de prog
 
 Sigue los pasos que se indican a continuación.
 
-## Creación del equipo
-
-Este ejercicio se debe hacer en grupos de 3 alumnos. Uno de ellos será el representante del grupo.
-
-## Forkea forkea
-
-El representante del grupo debe hacer un *fork* de este repositorio para utilizarlo como base.
-
-## Añadiendo colaboradores
-
-El encargado del grupo deberá añadir como colaboradores del repositorio *forkeado* a los otros dos miembros, para trabajar todos sobre los mismos archivos. Cuando alguien es colaborador en un repositorio, puede hacer *push* a él sin necesidad de pedir permiso o hacer *pull request*.
-
-Para añadir colaboradores hay que hacer click en la pestaña *Settings* y seleccionar luego *Collaborators* en el menú.
-
 ## Miembros del grupo
 
 Escribe aquí los miembros del grupo. El primero es el representante o encargado.
 
-* Lucía Flores Padilla
+* [Lucía Flores Padilla](https://github.com/luciaflores25).
 * Jesus Martín Castro
 * Beatriz Parejo Ramos
 
