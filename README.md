@@ -10,7 +10,7 @@ Con este ejercicio se pretende despertar el interés por otros lenguajes de prog
 
 Sigue los pasos que se indican a continuación.
 
-## Miembros del grupo
+## Miembros del grupo "TrioScript"
 
 Los miembros del grupo, el primero es el representante o encargado.
 
