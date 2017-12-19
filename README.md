@@ -1,4 +1,4 @@
-# Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota).
+﻿# Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota).
 
 ## Introducción
 
@@ -87,7 +87,7 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
         }
 ```
 
-<img src="imagenes/introducirAltura.png" width="250px"> <img src="imagenes/introducirCaracter.png" width="250px"> <img src="imagenes/piramide.png" width="300px" height="400px">
+<img src="imagenes/introducirAltura.png" width="250px"> <img src="imagenes/introducirCaracter.png" width="250px"> <img src="imagenes/piramideAsteriscos.png" width="300px" height="400px">
 
 ### 3. Arrays y números aleatorios
 
