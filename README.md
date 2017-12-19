@@ -57,7 +57,7 @@ Para hacer los ejercicios hemos usado netbeans, aunque JavaScript se puede progr
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 ```java
-    document.write("Hola Mundo");
+    document.write("¡Hola Mundo!");
 ```
 <img src="imagenes/HolaMundo.png" width="350px">
 ### 2. Pirámide
