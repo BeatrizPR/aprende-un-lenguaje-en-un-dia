@@ -59,7 +59,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ```java
     document.write("Hola Mundo");
 ```
-<img src="imagenes/HolaMundo.jpg.png" width="350px">
+<img src="imagenes/HolaMundo.png" width="350px">
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
